@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <header>
+    <!-- <header> -->
         <nav class="navbar navbar-expand-lg navbar-dark  menu">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto lt">
@@ -32,7 +32,7 @@
           </form>
         </div>
         </nav>
-    </header>
+    <!-- </header> -->
 
     <main class="container">
         @yield('contenidoPrin')
