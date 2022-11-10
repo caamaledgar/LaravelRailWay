@@ -44,7 +44,7 @@
             <a href="#arriba">Back to top</a>
 
             <div class="container piePagina">
-              <p class="lead">&copy; Diana 2022 - Todos los derechos reservados.</p>
+              <p class="lead">&copy; Diana 2022 - Todos los derechos reservados. ITChina</p>
             </div>
           </div>
 
